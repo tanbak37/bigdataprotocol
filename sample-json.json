@@ -1,0 +1,22 @@
+[
+		{
+			"key":"PilkadaSerentak2018",
+		 	"location":"jakarta",
+			"count":"57"
+		},
+		{
+			"key":"PilkadaSerentak2018",
+			"location":"bandung",
+			"count":"44"
+		},
+		{
+			"key":"PilkadaSerentak2018",
+			"location":"surabaya",
+			"count":"25"
+		},
+		{
+			"key":"PilkadaSerentak2018",
+			"location":"palembang",
+			"count":"35"
+		}
+]

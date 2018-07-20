@@ -1,7 +1,7 @@
 {
   "name": "simple-nodejs-weather-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Node.js Command Line Weather Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.3",
-    "request": "^2.81.0"
+    "body-parser": "^1.18.3",
+    "cassandra-driver": "^3.5.0",
+    "document": "^0.4.7",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
   }
 }
